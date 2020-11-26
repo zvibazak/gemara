@@ -1,8 +1,8 @@
 # gemara
 Python script that will print any page on Gemara with "Tzuras HaDaf"
 
-Output for Brachot 2a
-```rtl
+Output for Brachot 2a (compare with [original page](http://daf-yomi.com/Dafyomi_Page.aspx?vt=1&massechet=283&amud=3&fs=0))
+```
 מאימתי   פרק ראשון   ברכות                                                  ב                                                  
 
 מאימתי קורין  וכו' - פי' רש"י: ואנן  היכי קרינן מבעוד יום ואין     מאימתי קורין  את שמע בערבין. משעה שהכהנים נכנסים לאכול בתרומתן
